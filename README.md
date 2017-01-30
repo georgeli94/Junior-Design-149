@@ -1,3 +1,3 @@
 # Junior-Design-149
 
-## Scott has joined.
+## Project moved to private repository
